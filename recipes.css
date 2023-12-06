@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;700&family=Montserrat:wght@400;500;700&family=Noto+Sans+SC:wght@500&display=swap');
+
+* { 
+	margin: 0;
+	padding: 0;
+}
+body {
+	color:#4D2920;
+}
+header {
+		font-family: 'Montserrat', sans-serif;
+		font-weight: 500;
+		font-size: 30;
+		background-image: url(images/pagoda.jpg);
+		background-size: cover;
+		max-width: 1900px;
+		background-repeat: no-repeat;
+		padding: 0px 0px;
+		margin: 0px;
+		width: auto;
+		height: 550px;
+		background-position: center;
+		margin-top:-45px;
+		padding-top:45px;
+	
+}
+
+.logo a{
+	padding-top:45px;
+	padding-right:20px;
+	margin-top:45px;
+	margin-left:50px;
+	text-decoration: none;
+	writing-mode: vertical-rl;
+	transform: rotate(180deg);
+	color: red;
+	text-align:left;
+	float:left;
+}
+header nav {
+		margin-top: 45px;
+}
+header nav a{
+	text-decoration: none;
+	color: #fff;
+	text-align:left;
+	padding:20px;
+}
+
+.toppart{
+    text-align:center;
+	padding-top:45px;
+    margin-left:500px;
+    padding-bottom:45px;
+}
+
+.recipebanner{
+	max-width:100%;
+	overflow:hidden;
+    padding-left:50px;
+    padding-right:50px;
+	margin-bottom:-470px;
+}
+
+.mooncakeimages{
+    display:flex;
+    text-align:center;
+    margin-left:600px;
+    margin-top:-400px;
+    padding-bottom:250px;
+}
+
+.mooncakeimages a{
+    margin-left:-100px;
+    margin-right:100px;
+    text-decoration:none;
+    color:white;
+}
+
+.mooncakeimages2{
+    display:flex;
+    text-align:center;
+    margin-left:250px;
+    margin-top:-400px;
+    padding-bottom:250px;
+}
+
+.mooncakeimages2 a{
+    text-decoration:none;
+    color:white;
+}
+
+.bodytext {
+	max-width:800px;
+	padding-top:50px;
+    padding-bottom:150px;
+	padding-right:400px;
+}
+
+.learnmore{
+	float:right;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	color:red;
+	font-size: 20px;
+	text-align:center;
+	margin-right:150px;
+	padding-bottom: 150px;
+}
+
+.conceptmoon {
+	background-image:url(images/backgroundcircle.jpg);
+	background-size: cover;
+	max-width: 1900px;
+}
+
+.mooncakes{
+	display:flex;
+	background-image:url(images/bigmooncakes.jpg);
+	background-size: cover;
+	max-width: 1900px;
+	height: 600px;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: auto;
+	margin-bottom:0px;
+	padding-top:60px;
+}
+
+.moonsidetext {
+	float:left;
+	padding-left:100px;
+	padding-top:60px;
+	text-align:center;
+	padding-right:100px;
+	color:white;
+}
+
+.recipe1{
+	margin-left:60px;
+    padding-top:-500px;
+	display:flex;
+	overflow:hidden;
+}
+
+.recipesidetext {
+	margin-left:40px;
+    padding-top:50px;
+	text-align:center;
+	padding-right:100px;
+}
+
+.image {
+	float: right;
+	margin-left:-30px;
+}
+
+.recipe2{
+	margin-left:200px;
+	padding-top:60px;
+}
+
+.recipebody{
+	display:flex;
+}
+.recipebodytext{
+	max-width:900px;
+	padding-right:300px;
+}
+
+h1 {
+
+		font-family: 'Josefin Sans', sans-serif;
+		font-size: 300px;
+		text-align: center;
+		padding-top: 15.5%;
+		color: white;
+
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif; 
+	font-weight: 700;
+	font-size:55px;
+}
+
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:70px;
+}
+
+h4 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 300;
+	font-size:35px;
+	padding-bottom:20px;
+}
+
+h5 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 300;
+	font-size:35px;
+	writing-mode: vertical-rl;
+	transform: rotate(180deg);
+}
+
+h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size:40px;
+    margin-top:210px;
+    padding-right:45px;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+}
+footer {
+	color:white;
+	position:relative;
+}
+
+.footerback{
+	position:absolute;
+}
+.footertext{
+	position:absolute;
+	text-align:center;
+	padding-top: 100px;
+}
+
+.footerlogo{
+	float:left;
+	margin-left:100px;
+	margin-right:1200px;
+}
+
+.social{
+	float:right;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size:30px;
+}

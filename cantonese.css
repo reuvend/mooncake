@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;700&family=Montserrat:wght@400;500;700&family=Noto+Sans+SC:wght@500;700&display=swap');
+
+
+* { 
+	margin: 0;
+	padding: 0;
+}
+body {
+	color:#4D2920;
+}
+header {
+		font-family: 'Montserrat', sans-serif;
+		font-weight: 500;
+		font-size: 30;
+		background-image: url(images/pagoda.jpg);
+		background-size: cover;
+		max-width: 1900px;
+		background-repeat: no-repeat;
+		padding: 0px 0px;
+		margin: 0px;
+		width: auto;
+		height: 550px;
+		background-position: center;
+		margin-top:-45px;
+		padding-top:45px;
+	
+}
+
+.logo a{
+	padding-top:45px;
+	padding-right:20px;
+	margin-top:45px;
+	margin-left:50px;
+	text-decoration: none;
+	writing-mode: vertical-rl;
+	transform: rotate(180deg);
+	color: #F2C744;
+	text-align:left;
+	float:left;
+}
+
+header nav {
+		margin-top: 45px;
+}
+
+header nav a{
+	text-decoration: none;
+	color: #fff;
+	text-align:left;
+	padding:20px;
+}
+
+.sidetext {
+	float:left;
+	margin-left:40px;
+    margin-bottom:150px;
+	text-align:center;
+}
+
+.bodytext {
+	width:900px;
+}
+
+.intro {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:flex;
+}
+
+.redpattern{
+	max-width:100%;
+	margin-bottom:-550px;
+}
+
+.cantomooncake{
+    margin-left: 1000px;
+    margin-top: -560px;
+    margin-bottom:50px;
+}
+.ingredients{
+    color:white;
+    padding-top:50px;
+    padding-left:150px;
+}
+
+.data{
+    display:flex;
+	font-family: 'Montserrat', sans-serif; 
+
+}
+
+.ingredients1{
+    list-style-type:none;
+    padding-right:180px;
+}
+
+.measurement1{
+    list-style-type:none;
+}
+
+.data2{
+    display:flex;
+    font-family: 'Montserrat', sans-serif; 
+
+}
+
+.ingredients2{
+    list-style-type:none;
+    padding-right:180px;
+}
+
+.measurement2{
+    list-style-type:none;
+}
+
+.steps1{
+    margin-top:-1225px;
+    display:flex;
+}
+.doughtext1{
+    float:right;
+    padding-left:100px;
+    padding-top:40px;
+}
+
+.doughtexthead1{
+    font-family: 'Montserrat', sans-serif; 
+	font-weight: 500;
+	font-size:50px;
+    color:#F2C744;
+    padding-bottom: 25px;
+}
+.doughtextbody1{
+    color:white;
+    width: 600px;
+}
+
+.doughtext2{
+    display:flex;
+    padding-top:100px;
+}
+
+.doughsidetext{
+    float:left;
+    padding-top:70px;
+	margin-left:25px;
+    margin-bottom:150px;
+	text-align:center;
+    color:white;
+}
+
+.doughtexthead2{
+    font-family: 'Montserrat', sans-serif; 
+	font-weight: 500;
+	font-size:50px;
+    color:#F2C744;
+    padding-bottom: 25px;
+
+}
+.doughtextbody2{
+    color:white;
+    width: 550px;
+    padding-right:140px;
+}
+
+.assemble{
+    float:right;
+}
+
+.bake{
+    padding-top:120px;
+    display:flex;
+}
+
+.bakebodytext{
+    width:600px;
+    padding-top:85px;
+    padding-left:90px;
+}
+
+.doughtexthead3{
+    font-family: 'Montserrat', sans-serif; 
+	font-weight: 500;
+	font-size:50px;
+    color:#F2C744;
+    padding-bottom: 25px;
+}
+
+.bakesidetext{
+    padding-top:145px;
+}
+
+h1 {
+
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 320px;
+    text-align: center;
+    padding-top: 7%;
+    color: white;
+
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif; 
+	font-weight: 700;
+	font-size:55px;
+}
+
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:70px;
+}
+
+h4 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 300;
+	font-size:35px;
+	padding-bottom:25px;
+}
+
+h5 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 300;
+	font-size:35px;
+    padding-right: 105px;
+	transform: rotate(270deg);
+
+}
+
+h6{
+    font-family: 'Montserrat', sans-serif; 
+	font-weight: 700;
+	font-size:20px;
+    padding-top: 30px;
+    padding-bottom:15px;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+}
+
+footer {
+	color:white;
+	position:relative;
+}
+
+.footerback{
+	position:absolute;
+}
+.footertext{
+	position:absolute;
+	text-align:center;
+	padding-top: 100px;
+}
+
+.footerlogo{
+	float:left;
+	margin-left:100px;
+	margin-right:1200px;
+}
+
+.social{
+	float:right;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size:30px;
+}
